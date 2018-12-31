@@ -4,5 +4,9 @@ this is first commit file.
 this is first commit file.
 this is first commit file.
 this is first commit file.
+<<<<<<< HEAD
 
 new text also enter here here
+=======
+hello here my file
+>>>>>>> 65c9385161b8c8137da7e7e577495a38971416b8
